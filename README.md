@@ -33,7 +33,7 @@
 
 ## <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width = "28px" /> Stats
 
-![CallMeZu's GitHub stats](https://github-readme-stats.vercel.app/api?username=callMeZu&show_icons=true&theme=rose)
+![Zuhruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeZu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callMeZu&layout=compact)
 
 <!--
