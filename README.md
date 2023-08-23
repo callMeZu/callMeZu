@@ -11,7 +11,7 @@
 <p align = "center">
   <img src = "https://media.giphy.com/media/xlqFxnsFeyuu2pDp4j/giphy.gif" width = "23px"> I'm Zuhruf, last year senior high school student with a passion for creative work like graphic design, photo and video editing, and web development. I love the creative world and have worked hard to get better at these things. I'm excited to blend these skills and build a career I'll love. </p>
 
-## Softwares & codes Skills
+## Softwares & Codes Skills
 ### :u5408: Languages
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
