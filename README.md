@@ -1,5 +1,5 @@
 ### Hi I'm Zuhruf, y'all can call me ZU🦨
-**`Editor & Graphic Designer
+**`Editor & Graphic Designer`**
 
 <!--
 **callMeZu/callMeZu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
