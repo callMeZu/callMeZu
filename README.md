@@ -11,8 +11,8 @@
 <p align = "center">
   <img src = "https://media.giphy.com/media/xlqFxnsFeyuu2pDp4j/giphy.gif" width = "23px"> I'm Zuhruf, last year senior high school student with a passion for creative work like graphic design, photo and video editing, and web development. I love the creative world and have worked hard to get better at these things. I'm excited to blend these skills and build a career I'll love. </p>
 
-## Softwares & Codes Skills
-### :u5408: Languages
+## Softwares & Codes
+### :u7981: Languages
 
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -31,7 +31,7 @@
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br /> <br />
 
-## <img src = "https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width = "28px" /> Stats
+## :bar_chart: Stats
 
 ![Zuhruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeZu&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callMeZu&layout=compact)
