@@ -29,7 +29,11 @@
 <img align="left" alt="Premiere Pro" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 <img align="left" alt="After Effect" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
 <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<br /> <br />
+<br /> 
+<br />
+<br />
+<br />
+<br />
 
 ## :bar_chart: Stats
 
