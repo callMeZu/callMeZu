@@ -33,7 +33,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ## :bar_chart: Stats
 
