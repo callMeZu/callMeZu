@@ -1,14 +1,12 @@
 # My Name is ZU :poodle:
 **`Editor & Graphic Designer`**
 
-![Github gif](https://github.com/callMeZu/callMeZu/assets/136812273/ac3edbd8-f24d-4210-8a68-ebad12007857)
+![Dripping text (1)](https://github.com/callMeZu/callMeZu/assets/136812273/13c457d9-aa61-4fac-909c-0c77139d8a67)
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inizuuu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhruf/) 
 
-
-
-<p align = "center">
+<p align = "left">
   <img src = "https://media.giphy.com/media/xlqFxnsFeyuu2pDp4j/giphy.gif" width = "23px"> I'm Zuhruf, last year senior high school student with a passion for creative work like graphic design, photo and video editing, and web development. I love the creative world and have worked hard to get better at these things. I'm excited to blend these skills and build a career I'll love. </p>
 
 ## Softwares & Codes
