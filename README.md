@@ -1,5 +1,5 @@
 # My Name is ZU :poodle:
-**`Editor & Graphic Designer`**
+**`Backend Dev & Graphic Designer`**
 
 ![Dripping text (1)](https://github.com/callMeZu/callMeZu/assets/136812273/13c457d9-aa61-4fac-909c-0c77139d8a67)
 
