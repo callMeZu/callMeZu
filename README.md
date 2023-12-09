@@ -32,7 +32,7 @@
 <br />
 <br />
 
-## :bar_chart: Stats
+## Stats
 
 ![Zuhruf's GitHub stats](https://github-readme-stats.vercel.app/api?username=CallMeZu&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callMeZu&layout=compact)
